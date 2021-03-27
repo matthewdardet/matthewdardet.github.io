@@ -3,7 +3,7 @@ layout: full-width
 title: Matthew E. Dardet
 ---
 
-{% main_column_img assets/img/Matthew (Full).jpg '' %}
+{% maincolumn assets/img/Matthew (Full).jpg '' %}
 
 <h1 class="content-listing-header sans">Matthew E. Dardet</h1>
 <a href="mailto:mattdar@stanford.edu">mattdar@stanford.edu</a>
