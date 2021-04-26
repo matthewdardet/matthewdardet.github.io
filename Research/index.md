@@ -3,13 +3,13 @@ layout: page
 title: Research
 ---
 
-<h1 class="content-listing-header sans">Books in-progress</h1>
+<h1 class="content-listing-header sans">Books</h1>
 
-### Contingent Valuation: Modern Approaches
+In process!
 
-<h1 class="content-listing-header sans">Articles in-progress</h1>
+<h1 class="content-listing-header sans">Articles</h1>
 
-### Survey Methodology
+In process!
 
 
 
