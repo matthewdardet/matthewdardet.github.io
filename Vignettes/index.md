@@ -13,4 +13,3 @@ title: Vignettes
         </li>
     {% endfor %}
   </ul>
-
