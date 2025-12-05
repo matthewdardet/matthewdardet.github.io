@@ -1,9 +1,10 @@
 baseurl:
+url: "https://www.matthewdardet.com"
 title: Matthew E. Dardet
 subtitle: content-centric blogging
 author: Matthew E. Dardet
 simple_search: http://google.com/search
-description: Matthew E. Dardet's Website
+description: Ph.D. student in Government at Harvard University researching survey methodology, public opinion, and political psychology
 name: tufte
 markdown: kramdown
 kramdown:
